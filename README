@@ -1,6 +1,6 @@
 Create short links with Bitly
 
 Setup
-1. Import this workflow
-2. Create an account on Bitly for [free] or paid.  (Don't use the google single sign on)
-3. Use the imported custom step in your workflow, creating the the token in your Bitly account and the enpoint in xMatters as shown in this video.
+1. Import [this workflow](Bitlystep.zip) to xMatters.
+2. Create an account on Bitly for [free](https://bitly.com/a/sign_up) or [paid](https://bitly.com/pages/pricing).  (Don't use the google single sign on)
+3. Use the imported custom step in your workflow, creating the the token in your Bitly account and the endpoint in xMatters [as shown in this video](2021-06-04_13-51-02.mp4).
